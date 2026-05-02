@@ -1,37 +1,56 @@
-# Dabadoro: Plan. Focus. Build habits that stick. 🎯
+<p align="center">
+  <img src="assets/dabadoro-logo.svg" width="120" height="120" alt="Dabadoro Logo">
+</p>
 
-Welcome to the official release repository for **Dabadoro** — your calm, unified productivity system.
+# Dabadoro Planner: Plan. Focus. Build habits that stick. 🎯
 
 Dabadoro brings tasks, habits, Pomodoro focus, daily scheduling, analytics, and rewards into one stunning interface. Stop juggling five different apps and start making progress in one cohesive flow.
 
-[**Visit the Website**](https://dabadoro.com) • [**Download Latest**](https://github.com/AChortex/dabadoro-releases/releases/latest) • [**Twitter**](https://twitter.com/dabadoroapp)
+[**Visit the Website**](https://dabadoro.com) • [**Download Latest**](https://github.com/AChortex/dabadoro-planner/releases/latest) • [**Twitter**](https://twitter.com/dabadoroapp)
 
 ---
+
+![Dabadoro Dashboard](assets/Dashboard_dark.png)
 
 ## 🚀 Download & Install
 
 Dabadoro is blazingly fast, lightweight (< 6MB), and built for performance on Windows and macOS.
 
 ### 🪟 Windows
-*   **[Download .exe Installer](https://github.com/AChortex/dabadoro-releases/releases/latest)**
+*   **[Download .exe Installer](https://github.com/AChortex/dabadoro-planner/releases/latest)**
 *   Run the installer and Dabadoro will be ready in seconds.
 
 ### 🍎 macOS (Intel & Apple Silicon)
-*   **[Download .dmg](https://github.com/AChortex/dabadoro-releases/releases/latest)**
+*   **[Download .dmg](https://github.com/AChortex/dabadoro-planner/releases/latest)**
 *   Open the DMG and drag Dabadoro to your Applications folder.
-*   *Note: On first launch, you may need to Right-Click -> Open if the app is not yet Apple-notarized.*
 
 ---
 
 ## ✨ Key Features
 
-*   **🧩 All-in-One Dashboard:** Your tasks, habits, and schedule side-by-side.
-*   **⏲️ Fullscreen Pomodoro:** A stunning focus mode with task notes and checklists.
-*   **📅 Drag-and-Drop Scheduling:** Plan your day visually into morning, afternoon, and evening blocks.
-*   **📊 Beautiful Analytics:** GitHub-style heatmaps and interactive consistency charts.
-*   **🏆 Gamified Rewards:** Earn XP and coins to redeem your own custom rewards.
-*   **🤖 10+ AI Expert Agents:** Specialized AI agents to generate study plans, fitness routines, and more.
-*   **🐸 Daba Mascot:** Your animated desk buddy with a real-time belly clock.
+### 🧩 Your entire day, one calm view
+See your tasks, habits, and schedule side-by-side. Drag activities into time slots, track progress through the day, and watch your heatmap fill up over weeks and months.
+
+### ⏲️ Deep focus, beautifully timed
+A stunning full-screen Pomodoro timer with your task context, notes, and checklist right beside you.
+<p align="center">
+  <img src="assets/Pomodoro_Task_Fullscreen_Dark.png" width="80%">
+</p>
+
+### 📊 See exactly where your time goes
+Beautiful analytics with daily, monthly, and yearly views. Track completions, time invested, coins earned, and habit streaks, all visualized in interactive charts.
+<p align="center">
+  <img src="assets/Analytics_Dark.png" width="80%">
+</p>
+
+### 🏆 Earn coins. Claim rewards. Stay motivated.
+Every completed task and habit earns you XP and coins. Level up your profile, build your own Rewards Vault with personal treats, and redeem them when you've earned it.
+<p align="center">
+  <img src="assets/Rewards_tab_dark.png" width="80%">
+</p>
+
+### 🤖 10+ AI Expert Agents
+Choose from specialist AI agents (Fitness Coach, Study Planner, Language Tutor) that generate personalized task and habit programs tailored to your goals.
 
 ---
 
