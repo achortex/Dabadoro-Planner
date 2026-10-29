@@ -1,91 +1,119 @@
 <p align="center">
-  <img src="assets/dabadoro-logo.svg" width="120" height="120" alt="Dabadoro Logo">
+  <img src="assets/dabadoro-logo.svg" width="110" height="110" alt="Dabadoro logo">
 </p>
 
-# Dabadoro Planner: Plan. Focus. Build habits that stick. 🎯
+<h1 align="center">Dabadoro</h1>
 
-Dabadoro brings tasks, habits, Pomodoro focus, daily scheduling, analytics, and rewards into one stunning interface. Stop juggling five different apps and start making progress in one cohesive flow.
+<p align="center"><b>Plan your day, focus on one thing, and build habits that stick.</b></p>
 
-🌐 [**Visit the Website**](https://dabadoro.com) • 📦 [**Download Latest**](https://github.com/AChortex/dabadoro-planner/releases/latest) • 🐦 [**Twitter**](https://twitter.com/dabadoroapp)
+<p align="center">
+  <a href="https://github.com/achortex/Dabadoro-Planner/releases/latest"><b>Download</b></a> ·
+  <a href="https://dabadoro.com">Website</a> ·
+  <a href="https://dabadoro.com/docs/getting-started/">Guides</a> ·
+  <a href="https://x.com/dabadoroapp">X</a> ·
+  <a href="https://www.instagram.com/dabadoroapp/">Instagram</a>
+</p>
 
----
+Dabadoro is a fast, free planner for your computer. Your tasks, habits, schedule and focus timer live in one calm window, and finished work earns coins for rewards you choose yourself.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Dashboard_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/Dashboard_Light.png">
-    <img alt="Dabadoro Dashboard" src="assets/Dashboard_dark.png" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dashboard-pomodoro-timer-day-planner-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/dashboard-pomodoro-timer-day-planner-light.webp">
+    <img alt="The Dabadoro dashboard: a focus timer beside the day planned in morning, afternoon and evening columns" src="assets/dashboard-pomodoro-timer-day-planner-dark.webp" width="100%">
   </picture>
 </p>
 
-## 🚀 Download & Install
+## What's new in 1.2
 
-Dabadoro is blazingly fast, lightweight (< 6MB), and built for performance on Windows and macOS.
+- A floating timer that stays on top of your other windows.
+- A new dashboard with the timer, schedule, tasks and habits side by side.
+- New schedule views: one day, one period, or a week strip.
+- Settings are redesigned, with search to find any setting fast.
+- Analytics can group by week, and you drag to pick dates.
+- A Messages window with our news and replies to your feedback.
+- AI planning has a new Daily routine expert.
 
-### 🖥️ Windows
-*   **[Download .exe Installer](https://github.com/AChortex/dabadoro-planner/releases/latest)**
-*   Run the installer and Dabadoro will be ready in seconds.
+[Every release](https://dabadoro.com/changelog/)
 
-### 🍎 macOS (Intel & Apple Silicon)
-*   **[Download .dmg](https://github.com/AChortex/dabadoro-planner/releases/latest)**
-*   Open the DMG and drag Dabadoro to your Applications folder.
+## Download
 
----
+Get it from the [latest release](https://github.com/achortex/Dabadoro-Planner/releases/latest) or [dabadoro.com](https://dabadoro.com/download/). It's free, with a free account.
 
-## ✨ Key Features
+- **Windows:** the `.exe` installer, for 64-bit Windows.
+- **Mac:** the `.dmg` for your Mac, `aarch64` for Apple chips or `x64` for Intel. Needs macOS 11 or later.
+- **Linux:** the `.AppImage`, `.deb` or `.rpm`, for 64-bit Linux.
 
-### 🧩 Your entire day, one calm view
-See your tasks, habits, and schedule side-by-side. Drag activities into time slots, track progress through the day, and watch your heatmap fill up over weeks and months.
+Already have Dabadoro? It tells you when a new version is out, and installs it when you choose.
 
-### ⏲️ Deep focus, beautifully timed
-A stunning full-screen Pomodoro timer with your task context, notes, and checklist right beside you.
+> **Opening it on a Mac:** the Mac version isn't signed by Apple yet, so macOS may warn you the first time. Open the app once, then choose **Open Anyway** in System Settings, Privacy & Security. You only do this once.
+
+## What it does
+
+### Focus, even in other apps
+
+A Pomodoro timer with your notes and checklist beside it, a full-screen focus mode, and a floating timer that stays on top while you work somewhere else.
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Pomodoro_Task_Fullscreen_Dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/Pomodoro_Habit_Fullscreen_Light.png">
-    <img alt="Pomodoro Timer" src="assets/Pomodoro_Task_Fullscreen_Dark.png" width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/floating-timer-expanded-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/floating-timer-expanded-light.webp">
+    <img alt="The floating timer with its details open" src="assets/floating-timer-expanded-dark.webp" width="420">
   </picture>
 </p>
 
-### 📊 See exactly where your time goes
-Beautiful analytics with daily, monthly, and yearly views. Track completions, time invested, coins earned, and habit streaks, all visualized in interactive charts.
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Analytics_Dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/Analytics_Light.png">
-    <img alt="Analytics Dashboard" src="assets/Analytics_Dark.png" width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/fullscreen-focus-mode-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/fullscreen-focus-mode-light.webp">
+    <img alt="Full-screen focus mode" src="assets/fullscreen-focus-mode-dark.webp" width="80%">
   </picture>
 </p>
 
-### 🏆 Earn coins. Claim rewards. Stay motivated.
-Every completed task and habit earns you XP and coins. Level up your profile, build your own Rewards Vault with personal treats, and redeem them when you've earned it.
+### Plan with AI
+
+Pick an expert, answer a few questions, and get a ready plan of tasks and habits for your goal.
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/Rewards_tab_dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/Rewards_tab_light.png">
-    <img alt="Rewards System" src="assets/Rewards_tab_dark.png" width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ai-command-centre-expert-picker-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/ai-command-centre-expert-picker-light.webp">
+    <img alt="Choosing an AI expert to plan with" src="assets/ai-command-centre-expert-picker-dark.webp" width="80%">
   </picture>
 </p>
 
-### 🤖 10+ AI Expert Agents (AI features currently in Development)
-Choose from specialist AI agents (Fitness Coach, Study Planner, Language Tutor) that generate personalized task and habit programs tailored to your goals.
+### See where your time goes
+
+Analytics by day, week, month or year: what you finished, the time you put in, and your habit streaks.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/analytics-week-grouping-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/analytics-week-grouping-light.webp">
+    <img alt="Analytics grouped by week" src="assets/analytics-week-grouping-dark.webp" width="80%">
+  </picture>
+</p>
+
+### Earn coins, claim rewards
+
+Finished tasks and habits earn coins. Spend them on rewards you set yourself, from a bubble tea to a lie-in.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/rewards-vault-dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/rewards-vault-light.webp">
+    <img alt="The rewards vault" src="assets/rewards-vault-dark.webp" width="80%">
+  </picture>
+</p>
+
+## Your data
+
+We don't sell your data, and we don't use it to train AI models. Read the [privacy policy](https://dabadoro.com/privacy/).
+
+## Help
+
+Found a problem or have an idea? Use the feedback button in the app's title bar, or read the [guides](https://dabadoro.com/docs/).
 
 ---
 
-## 🛠️ Built With
-Dabadoro is built for speed and privacy:
-*   **Frontend:** React + Vite
-*   **System Layer:** Rust + [Tauri](https://tauri.app)
-*   **Database:** Convex (Cloud Sync) + Dexie (Local-first)
-
----
-
-## 🔒 Privacy & Data
-Your productivity is personal. We never sell your private data (tasks, habits, or notes) to third parties. We may display relevant ads within the app to keep Dabadoro free for everyone, but your personal content stays private and secure.
-
----
-
-## 📬 Support & Community
-If you encounter any issues or have feature requests, please visit our [official website](https://dabadoro.com) or reach out on [Twitter](https://twitter.com/dabadoroapp).
-
-*Dabadoro — Built with care by a solo developer who needed a calmer way to work.*
+<p align="center">Made by one developer at <a href="https://kosmorph.com/">Kosmorph</a>. Free to use; the code is not open source (see <a href="LICENSE">LICENSE</a>).</p>
