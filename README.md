@@ -48,6 +48,8 @@ Already have Dabadoro? It tells you when a new version is out, and installs it w
 
 > **Opening it on a Mac:** the Mac version isn't signed by Apple yet, so macOS may warn you the first time. Open the app once, then choose **Open Anyway** in System Settings, Privacy & Security. You only do this once.
 
+> **Opening it on Windows:** the installer isn't signed yet, so Windows may say it protected your PC. Choose **More info**, then **Run anyway**. You only do this once.
+
 ## What it does
 
 ### Focus, even in other apps
@@ -106,6 +108,16 @@ Finished tasks and habits earn coins. Spend them on rewards you set yourself, fr
   </picture>
 </p>
 
+## FAQ
+
+**Is Dabadoro free?** Yes. Optional Pro and Max plans are planned, but they aren't on sale yet.
+
+**Do I need an account?** Yes, a free one. It syncs your data between your computers. After the first sign-in, Dabadoro also works offline.
+
+**Is there a phone app?** Not yet. The free [web Pomodoro timer](https://dabadoro.com/pomodoro-timer/) works in any browser with no account.
+
+**What is it built with?** Tauri 2 (Rust and React). The Windows installer is 3.9 MB.
+
 ## Your data
 
 We don't sell your data, and we don't use it to train AI models. Read the [privacy policy](https://dabadoro.com/privacy/).
@@ -113,6 +125,8 @@ We don't sell your data, and we don't use it to train AI models. Read the [priva
 ## Help
 
 Found a problem or have an idea? Use the feedback button in the app's title bar, or read the [guides](https://dabadoro.com/docs/).
+
+If Dabadoro helps you, a star on this repo helps other people find it.
 
 ---
 
